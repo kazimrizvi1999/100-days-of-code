@@ -3,7 +3,7 @@ Target=10
 for i in set:
     num=Target-i
     if num in set:
-        print(num)
+        print(i,num)
 
 
 
